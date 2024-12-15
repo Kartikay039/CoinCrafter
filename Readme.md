@@ -95,3 +95,19 @@ The user interface is designed to be intuitive and easy to navigate:
 - **Gas Optimization**: Enhancing transaction speeds and reducing gas costs for deployments and transfers.
 - **Transaction History**: Implementing a feature to view past transfers directly within the DApp.
 - **Enhanced UI**: A more polished and responsive design with advanced user interactions.
+
+## Screenshots
+
+<img width="1440" alt="Screenshot 2024-12-14 at 7 21 02ΓÇ»PM" src="https://github.com/user-attachments/assets/20050176-9dee-4677-be61-d0a191ae0d96" />
+
+
+<img width="1440" alt="Screenshot 2024-12-14 at 7 18 38ΓÇ»PM" src="https://github.com/user-attachments/assets/ff8bc75b-86f7-4bb0-a070-9a681ec0eefe" />
+
+<img width="1440" alt="Screenshot 2024-12-14 at 7 20 08ΓÇ»PM" src="https://github.com/user-attachments/assets/0d651456-60a5-484a-9ca2-7d9e35942110" />
+
+
+<img width="1440" alt="Screenshot 2024-12-14 at 7 20 22ΓÇ»PM" src="https://github.com/user-attachments/assets/96e34d7a-30ed-4b79-8eb8-389526b99b9d" />
+
+
+
+
